@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello Everyone!
+=======
+
+>>>>>>> 6131d4efc162815220b90a965c22b1c32f6bcc32
